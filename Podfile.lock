@@ -1,0 +1,16 @@
+PODS:
+  - Locksmith (4.0.0)
+
+DEPENDENCIES:
+  - Locksmith
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Locksmith
+
+SPEC CHECKSUMS:
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+
+PODFILE CHECKSUM: 267239385bfc03dd28b1c31dcd52107c6defbd72
+
+COCOAPODS: 1.6.1
